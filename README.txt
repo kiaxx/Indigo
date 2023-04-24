@@ -3,9 +3,9 @@
 Indigo is a static online bookstore created using HTML and CSS.
 #Usage
 Follow the below link to open the website:
-"https://kiaxx.github.io/wpro1/"
+"https://kiaxx.github.io/Indigo/"
 Follow the below link to the website repo:
-"https://github.com/kiaxx/wpro1"
+"https://github.com/kiaxx/Indigo"
 #There are 3 pages in total:
 #Home page
 #Best Sellers Catergory Page
